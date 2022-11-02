@@ -1,6 +1,0 @@
-{
-    "buildCommand":"truffle migrate --rest",
-    "devCommand":"npm run dev",
-    "framework":null,
-    "installCommand":"npm install"
-}
